@@ -1,4 +1,4 @@
-package tema03.problemas;
+package tema03.problemas.parking;
 
 import java.util.Arrays;
 import java.util.Scanner;
